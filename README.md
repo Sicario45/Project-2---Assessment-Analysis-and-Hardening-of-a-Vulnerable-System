@@ -16,7 +16,7 @@ The technical skills of this project were performed in a lab environment located
 Red Team
 Before performing the attack it was essential to setup the backend logs to capture the attack data.
 
-Click hear to see beats and commands used to set up Kibana.
+
 
 Red Team Instructions
 
@@ -33,7 +33,7 @@ Blue Team Instructions
 
 Using Kibana to analyse logs taken during the Red Team attack. The data will be used to develop ideas for new alerts that can improve monitoring.
 
-Even though I already know what I did to exploit the target, analysing logs is still valuable. It teaches:
+Even though I already know what I did to exploit the target, analyzing logs is still valuable. It teaches:
 
 What your attack looks like from a defender's perspective.
 How stealthy or detectable your tactics are.
