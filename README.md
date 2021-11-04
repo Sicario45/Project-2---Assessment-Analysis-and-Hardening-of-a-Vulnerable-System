@@ -31,7 +31,7 @@ Find and capture the flag.
 Blue Team
 Blue Team Instructions
 
-Using Kibana to analyse logs taken during the Red Team attack. The data will be used to develop ideas for new alerts that can improve monitoring.
+Using Kibana to analyze logs taken during the Red Team attack. The data will be used to develop ideas for new alerts that can improve monitoring.
 
 Even though I already know what I did to exploit the target, analyzing logs is still valuable. It teaches:
 
@@ -57,4 +57,4 @@ Find the request for the hidden directory.
 Identify the brute force attack.
 Find the WebDAV connection.
 Identify the reverse shell and meterpreter traffic.
-Please view the Presentation to view the culmination of my results.
+Please view the Presentation slides to view my results.
