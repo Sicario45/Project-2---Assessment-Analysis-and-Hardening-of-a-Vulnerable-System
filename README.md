@@ -57,4 +57,4 @@ Find the request for the hidden directory.
 Identify the brute force attack.
 Find the WebDAV connection.
 Identify the reverse shell and meterpreter traffic.
-Please view the Presentation slides to view my results.
+Please view the presentation slides to view my results.
